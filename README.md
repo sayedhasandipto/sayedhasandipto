@@ -40,21 +40,17 @@
 ```javascript
 
 const sayedHasanDipto = {
-  pronouns: "he" | "him",
+  name: "Sayed Hasan Dipto",
   location: "Dhaka, Bangladesh 🇧🇩",
-  currentFocus: "Building modern, scalable full-stack web applications",
-  stack: {
-    frontend: ["React", "Next.js", "TypeScript", "Tailwind CSS"],
-    backend: ["Node.js", "Express.js", "MongoDB", "Mongoose"],
-    tools: ["Git", "Vercel", "VS Code", "Figma", "Vite"]
+  currentFocus: "Full-stack Scalable Web Applications",
+  techStack: {
+    frontend: ["HTML5", "CSS3", "JavaScript", "React.js", "Tailwind CSS", "Bootstrap"],
+    backend: ["Node.js", "Express.js", "MongoDB"],
+    devOpsAndTools: ["Git", "GitHub", "Docker", "Vercel", "VS Code", "Figma"]
   },
-  code: ["JavaScript", "TypeScript", "HTML", "CSS"],
-  architecture: ["SPA", "SSR", "REST API", "Microservices"],
-  currentlyLearning: ["GraphQL", "Docker", "AWS"],
-  funFact: "I turn coffee ☕ into clean code 💻",
-  askMeAbout: ["Web Dev", "MERN Stack", "UI/UX", "Tech"],
-  reachMeAt: "তোমার_আসল_ইমেইল@gmail.com"
-}
+  status: "Active Developer: Building and deploying production-ready applications.",
+  contact: "sayedhasandipto@gmail.com"
+};
 ```
 
 ### About Me
