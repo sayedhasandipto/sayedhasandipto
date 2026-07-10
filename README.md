@@ -9,11 +9,11 @@
 
 <p align="center">
 
-<a href="https://www.linkedin.com/in/sayedhasandipto">
+<a href="https://www.linkedin.com/in/sayedhasandipto/">
 <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-<a href="mailto:YOUR_EMAIL@gmail.com">
+<a href="mailto:sayedhasandipto@gmail.com">
 <img src="https://img.shields.io/badge/Email-Verified-success?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
@@ -98,20 +98,20 @@ I'm a **MERN Stack Developer** based in Dhaka, Bangladesh, focused on building f
 
 ---
 
-<!-- ### Featured Projects
+### Featured Projects
 
 <p align="left">
-  <a href="https://github.com/sayedhasandipto/Portfolio"><img align="top" src="https://github-readme-stats.vercel.app/api/pin/?username=sayedhasandipto&repo=Portfolio&theme=tokyonight&hide_border=true" /></a>
-  <a href="https://github.com/sayedhasandipto/BCB-Ideal-School"><img align="top" src="https://github-readme-stats.vercel.app/api/pin/?username=sayedhasandipto&repo=BCB-Ideal-School&theme=tokyonight&hide_border=true" /></a>
+  <a href="https://github.com/sayedhasandipto/Portfolio"><img align="top" src="https://github-readme-stats-bice-one.vercel.app/api/pin/?username=sayedhasandipto&repo=Portfolio&theme=tokyonight&hide_border=true" /></a>
+  <a href="https://github.com/sayedhasandipto/BCB-Ideal-School"><img align="top" src="https://github-readme-stats-bice-one.vercel.app/api/pin/?username=sayedhasandipto&repo=BCB-Ideal-School&theme=tokyonight&hide_border=true" /></a>
 </p>
 <p align="left">
-  <a href="https://github.com/sayedhasandipto/GitHubIssueTracker"><img align="top" src="https://github-readme-stats.vercel.app/api/pin/?username=sayedhasandipto&repo=GitHubIssueTracker&theme=tokyonight&hide_border=true" /></a>
-  <a href="https://github.com/sayedhasandipto/KeenKeeper"><img align="top" src="https://github-readme-stats.vercel.app/api/pin/?username=sayedhasandipto&repo=KeenKeeper&theme=tokyonight&hide_border=true" /></a>
+  <a href="https://github.com/sayedhasandipto/GitHubIssueTracker"><img align="top" src="https://github-readme-stats-bice-one.vercel.app/api/pin/?username=sayedhasandipto&repo=GitHubIssueTracker&theme=tokyonight&hide_border=true" /></a>
+  <a href="https://github.com/sayedhasandipto/KeenKeeper"><img align="top" src="https://github-readme-stats-bice-one.vercel.app/api/pin/?username=sayedhasandipto&repo=KeenKeeper&theme=tokyonight&hide_border=true" /></a>
 </p>
 <p align="left">
-  <a href="https://github.com/sayedhasandipto/English-Janala"><img align="top" src="https://github-readme-stats.vercel.app/api/pin/?username=sayedhasandipto&repo=English-Janala&theme=tokyonight&hide_border=true" /></a>
-  <a href="https://github.com/sayedhasandipto/Job-Application-Tracker"><img align="top" src="https://github-readme-stats.vercel.app/api/pin/?username=sayedhasandipto&repo=Job-Application-Tracker&theme=tokyonight&hide_border=true" /></a>
-</p> -->
+  <a href="https://github.com/sayedhasandipto/English-Janala"><img align="top" src="https://github-readme-stats-bice-one.vercel.app/api/pin/?username=sayedhasandipto&repo=English-Janala&theme=tokyonight&hide_border=true" /></a>
+  <a href="https://github.com/sayedhasandipto/Job-Application-Tracker"><img align="top" src="https://github-readme-stats-bice-one.vercel.app/api/pin/?username=sayedhasandipto&repo=Job-Application-Tracker&theme=tokyonight&hide_border=true" /></a>
+</p>
 
 > Browse everything on the [repositories tab](https://github.com/sayedhasandipto?tab=repositories) — pin any 6 repos on GitHub and this section will match them.
 
@@ -120,16 +120,12 @@ I'm a **MERN Stack Developer** based in Dhaka, Bangladesh, focused on building f
 ### GitHub Stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=sayedhasandipto&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sayedhasandipto&layout=compact&theme=tokyonight&hide_border=true" />
+  <img height="165" src="https://github-readme-stats-bice-one.vercel.app/api?username=sayedhasandipto&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" />
+  <img height="165" src="https://github-readme-stats-bice-one.vercel.app/api/top-langs/?username=sayedhasandipto&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=sayedhasandipto&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=sayedhasandipto&theme=tokyonight&no-frame=true&row=2&column=4" alt="GitHub Trophies" />
 </p>
 
 <p align="center">
