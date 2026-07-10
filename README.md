@@ -8,23 +8,54 @@
 </p>
 
 <p align="center">
-  <a href="https://sayedhasandipto.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" /></a>
-  <a href="https://www.linkedin.com/in/sayedhasandipto/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://x.com/devsayedhasan" target="_blank"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" /></a>
-  <a href="https://www.youtube.com/@SayedHasanDipto" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" /></a>
-  <a href="https://facebook.com/SayedHasanDipto.23" target="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" /></a>
-</p>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Status-Open%20to%20Work-success?style=for-the-badge" alt="Open to Work" />
-</p>
+<a href="https://www.linkedin.com/in/sayedhasandipto">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=sayedhasandipto&label=Profile%20Views&color=2E9EF7&style=flat-square" alt="Profile Views" />
-  <img src="https://img.shields.io/github/followers/sayedhasandipto?label=Followers&style=flat-square&color=2E9EF7" alt="Followers" />
+<a href="mailto:YOUR_EMAIL@gmail.com">
+<img src="https://img.shields.io/badge/Email-Verified-success?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://github.com/sayedhasandipto">
+<img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="https://x.com/devsayedhasan">
+<img src="https://img.shields.io/badge/X-Follow-000000?style=for-the-badge&logo=x&logoColor=white"/>
+</a>
+
+<a href="https://facebook.com/SayedHasanDipto.23">
+<img src="https://img.shields.io/badge/Facebook-Follow-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/>
+</a>
+
+<a href="https://youtube.com/@SayedHasanDipto">
+<img src="https://img.shields.io/badge/YouTube-Subscribe-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/>
+</a>
+
 </p>
 
 ---
+
+```javascript
+
+const sayedHasanDipto = {
+  pronouns: "he" | "him",
+  location: "Dhaka, Bangladesh 🇧🇩",
+  currentFocus: "Building modern, scalable full-stack web applications",
+  stack: {
+    frontend: ["React", "Next.js", "TypeScript", "Tailwind CSS"],
+    backend: ["Node.js", "Express.js", "MongoDB", "Mongoose"],
+    tools: ["Git", "Vercel", "VS Code", "Figma", "Vite"]
+  },
+  code: ["JavaScript", "TypeScript", "HTML", "CSS"],
+  architecture: ["SPA", "SSR", "REST API", "Microservices"],
+  currentlyLearning: ["GraphQL", "Docker", "AWS"],
+  funFact: "I turn coffee ☕ into clean code 💻",
+  askMeAbout: ["Web Dev", "MERN Stack", "UI/UX", "Tech"],
+  reachMeAt: "তোমার_আসল_ইমেইল@gmail.com"
+}
+```
 
 ### About Me
 
@@ -39,12 +70,12 @@ I'm a **MERN Stack Developer** based in Dhaka, Bangladesh, focused on building f
 
 ### What I Bring to a Team
 
-| Area | In practice |
-|---|---|
-| **Frontend** | Responsive UI with React, component-driven structure, Tailwind/Bootstrap styling |
-| **Backend** | REST APIs with Express & Node.js, MongoDB/Mongoose data modeling, auth basics |
-| **Workflow** | Git branching, clear commit history, debugging with DevTools & Postman |
-| **Mindset** | Fast learner, asks good questions, ships and iterates instead of stalling on "perfect" |
+| Area         | In practice                                                                            |
+| ------------ | -------------------------------------------------------------------------------------- |
+| **Frontend** | Responsive UI with React, component-driven structure, Tailwind/Bootstrap styling       |
+| **Backend**  | REST APIs with Express & Node.js, MongoDB/Mongoose data modeling, auth basics          |
+| **Workflow** | Git branching, clear commit history, debugging with DevTools & Postman                 |
+| **Mindset**  | Fast learner, asks good questions, ships and iterates instead of stalling on "perfect" |
 
 ---
 
@@ -71,7 +102,7 @@ I'm a **MERN Stack Developer** based in Dhaka, Bangladesh, focused on building f
 
 ---
 
-### Featured Projects
+<!-- ### Featured Projects
 
 <p align="left">
   <a href="https://github.com/sayedhasandipto/Portfolio"><img align="top" src="https://github-readme-stats.vercel.app/api/pin/?username=sayedhasandipto&repo=Portfolio&theme=tokyonight&hide_border=true" /></a>
@@ -84,7 +115,7 @@ I'm a **MERN Stack Developer** based in Dhaka, Bangladesh, focused on building f
 <p align="left">
   <a href="https://github.com/sayedhasandipto/English-Janala"><img align="top" src="https://github-readme-stats.vercel.app/api/pin/?username=sayedhasandipto&repo=English-Janala&theme=tokyonight&hide_border=true" /></a>
   <a href="https://github.com/sayedhasandipto/Job-Application-Tracker"><img align="top" src="https://github-readme-stats.vercel.app/api/pin/?username=sayedhasandipto&repo=Job-Application-Tracker&theme=tokyonight&hide_border=true" /></a>
-</p>
+</p> -->
 
 > Browse everything on the [repositories tab](https://github.com/sayedhasandipto?tab=repositories) — pin any 6 repos on GitHub and this section will match them.
 
@@ -117,15 +148,15 @@ I'm a **MERN Stack Developer** based in Dhaka, Bangladesh, focused on building f
 
 ---
 
-### Let's Connect
+<p align="center">
 
-I'm actively applying for **Junior MERN Stack / Frontend Developer** roles — if you're hiring, or just want to talk shop, feel free to reach out.
+<a href="mailto:YOUR_EMAIL@gmail.com">
+<img src="https://img.shields.io/badge/📩%20Available%20for%20Hire-Contact%20Me-00C853?style=for-the-badge"/>
+</a>
 
-<p align="left">
-<a href="https://www.linkedin.com/in/sayedhasandipto/" target="_blank"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin.svg" width="32" height="32" /></a>
-<a href="https://x.com/devsayedhasan" target="_blank"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/x-twitter.svg" width="32" height="32" /></a>
-<a href="https://facebook.com/SayedHasanDipto.23" target="_blank"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook.svg" width="32" height="32" /></a>
-<a href="https://www.youtube.com/@SayedHasanDipto" target="_blank"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube.svg" width="32" height="32" /></a>
 </p>
 
-<p align="center"><sub>⭐ If one of my projects is useful to you, a star helps a lot — thanks for stopping by!</sub></p>
+<p align="center">
+⭐ If you like my projects, consider giving them a star.<br>
+It motivates me to build more awesome open-source projects.
+</p>
