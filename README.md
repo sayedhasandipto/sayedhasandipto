@@ -1,5 +1,7 @@
-<h1 align="center">Hi 👋, I'm Sayed Hasan Dipto</h1>
-<h3 align="center">MERN Stack Web Developer | Turning Ideas Into Full-Stack Applications</h3>
+<div align="center">
+  <img src="https://i.ibb.co.com/0VRhb27N/Chat-GPT-Image-Jul-10-2026-05-41-21-AM.png" alt="Profile Banner" width="100%" />
+</div>
+<br>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=MERN+Stack+Web+Developer;React+%7C+Node.js+%7C+Express+%7C+MongoDB;Building+Real-World+Web+Apps;Open+to+Junior+Dev+Roles+%F0%9F%9A%80" alt="Typing SVG" />
@@ -24,18 +26,18 @@
 
 ---
 
-### 🎯 About Me
+### About Me
 
 I'm a **MERN Stack Developer** based in Dhaka, Bangladesh, focused on building fast, responsive, full-stack web apps with **React, Node.js, Express, and MongoDB**. I started in front-end development and have been leveling up into full-stack — with 60+ public repos of practice, side projects, and shipped code behind me.
 
-- 💼 **Actively looking for a Junior MERN Stack / Frontend Developer role** — full-time, internship, or freelance
-- 🧠 Comfortable turning a design or idea into a working, responsive UI
-- 🔗 Building REST APIs with Express/Node.js and wiring them up to React front-ends with real CRUD functionality
-- 🗄️ Learning to design clean, scalable data models in MongoDB
-- ⚙️ Keep my work version-controlled with a proper Git/GitHub workflow — branches, commits, PRs
-- 📈 Consistency over intensity — check my streak below, I show up and commit often
+- **Actively looking for a Junior MERN Stack / Frontend Developer role** — full-time, internship, or freelance
+- Comfortable turning a design or idea into a working, responsive UI
+- Building REST APIs with Express/Node.js and wiring them up to React front-ends with real CRUD functionality
+- Learning to design clean, scalable data models in MongoDB
+- Keep my work version-controlled with a proper Git/GitHub workflow — branches, commits, PRs
+- Consistency over intensity — check my streak below, I show up and commit often
 
-### 💬 What I Bring to a Team
+### What I Bring to a Team
 
 | Area | In practice |
 |---|---|
@@ -46,35 +48,30 @@ I'm a **MERN Stack Developer** based in Dhaka, Bangladesh, focused on building f
 
 ---
 
-### 🛠️ Tech Stack
+### Tech Stack
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,redux,nodejs,express,mongodb,tailwind,bootstrap,git,github,figma,vscode,postman,vercel" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,tailwind,bootstrap,git,github,figma,vscode,postman,vercel,docker" />
 </p>
 
 **Frontend**
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
 **Backend & Database**
+
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 
 **Tools & Platforms**
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white) ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 ---
 
-### 📌 Featured Projects
+### Featured Projects
 
 <p align="left">
   <a href="https://github.com/sayedhasandipto/Portfolio"><img align="top" src="https://github-readme-stats.vercel.app/api/pin/?username=sayedhasandipto&repo=Portfolio&theme=tokyonight&hide_border=true" /></a>
@@ -89,11 +86,11 @@ I'm a **MERN Stack Developer** based in Dhaka, Bangladesh, focused on building f
   <a href="https://github.com/sayedhasandipto/Job-Application-Tracker"><img align="top" src="https://github-readme-stats.vercel.app/api/pin/?username=sayedhasandipto&repo=Job-Application-Tracker&theme=tokyonight&hide_border=true" /></a>
 </p>
 
-> 📁 Browse everything on the [repositories tab](https://github.com/sayedhasandipto?tab=repositories) — pin any 6 repos on GitHub and this section will match them.
+> Browse everything on the [repositories tab](https://github.com/sayedhasandipto?tab=repositories) — pin any 6 repos on GitHub and this section will match them.
 
 ---
 
-### 📊 GitHub Stats
+### GitHub Stats
 
 <p align="center">
   <img height="165" src="https://github-readme-stats.vercel.app/api?username=sayedhasandipto&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" />
@@ -112,18 +109,15 @@ I'm a **MERN Stack Developer** based in Dhaka, Bangladesh, focused on building f
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=sayedhasandipto&theme=tokyo-night&hide_border=true" alt="Contribution Activity Graph" />
 </p>
 
-### 🐍 Contribution Snake
+### Contribution Snake
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/sayedhasandipto/sayedhasandipto/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only" alt="snake animation" />
-  <img src="https://raw.githubusercontent.com/sayedhasandipto/sayedhasandipto/output/github-contribution-grid-snake.svg#gh-light-mode-only" alt="snake animation" />
 </p>
-
-> ⚠️ This will show as a broken image until you add the workflow file below and it runs once.
 
 ---
 
-### 🤝 Let's Connect
+### Let's Connect
 
 I'm actively applying for **Junior MERN Stack / Frontend Developer** roles — if you're hiring, or just want to talk shop, feel free to reach out.
 
